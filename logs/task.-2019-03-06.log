@@ -1,0 +1,128 @@
+[2019-03-06T10:32:42.813] [MARK] jevin - check login status
+[2019-03-06T10:32:42.818] [INFO] jevin - 响应时间为23/ms
+[2019-03-06T10:35:49.346] [MARK] jevin - check login status
+[2019-03-06T10:35:49.347] [INFO] jevin - 响应时间为3/ms
+[2019-03-06T11:00:02.554] [MARK] jevin - check login status
+[2019-03-06T11:00:02.558] [INFO] jevin - {"projectName":"jevin-log","serverIp":"127.0.0.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为11/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:05:58.149] [MARK] jevin - check login status
+[2019-03-06T11:05:58.152] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为10/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:15:15.673] [MARK] jevin - check login status
+[2019-03-06T11:15:15.677] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为8/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:16:08.998] [MARK] jevin - check login status
+[2019-03-06T11:16:09.002] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为8/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:16:59.543] [MARK] jevin - check login status
+[2019-03-06T11:16:59.547] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为9/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:17:43.917] [MARK] jevin - check login status
+[2019-03-06T11:17:43.921] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为9/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:19:57.131] [MARK] jevin - check login status
+[2019-03-06T11:19:57.135] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为5/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:22:20.684] [MARK] jevin - check login status
+[2019-03-06T11:22:20.689] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为18/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:23:27.575] [MARK] jevin - check login status
+[2019-03-06T11:23:27.579] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为11/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:23:27.580] [MARK] jevin - ctx.response.status
+[2019-03-06T11:24:00.336] [MARK] jevin - check login status
+[2019-03-06T11:24:00.340] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为15/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:24:00.341] [MARK] jevin - ctx.response.status
+[2019-03-06T11:24:17.449] [MARK] jevin - check login status
+[2019-03-06T11:24:17.455] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为12/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:24:17.456] [MARK] jevin - ctx.response.status
+[2019-03-06T11:24:35.747] [MARK] jevin - check login status
+[2019-03-06T11:24:35.751] [MARK] jevin - ctx.response.status
+[2019-03-06T11:24:35.751] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为11/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:24:59.137] [MARK] jevin - ctx.response.status
+[2019-03-06T11:24:59.146] [MARK] jevin - check login status
+[2019-03-06T11:24:59.151] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为14/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:25:27.864] [MARK] jevin - 11111ctx.response.status
+[2019-03-06T11:25:27.872] [MARK] jevin - check login status
+[2019-03-06T11:25:27.876] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为11/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:26:25.482] [MARK] jevin - 11111ctx.response.status
+[2019-03-06T11:26:25.490] [MARK] jevin - check login status
+[2019-03-06T11:26:25.494] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为11/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:27:00.157] [MARK] jevin - check login status
+[2019-03-06T11:27:00.161] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为11/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:27:43.556] [MARK] jevin - check login status
+[2019-03-06T11:27:43.561] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为10/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:28:20.797] [MARK] jevin - check login status
+[2019-03-06T11:28:20.802] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为14/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:28:58.793] [MARK] jevin - check login status
+[2019-03-06T11:28:58.806] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为29/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:29:19.837] [MARK] jevin - check login status
+[2019-03-06T11:29:19.842] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为12/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T11:29:48.235] [MARK] jevin - check login status
+[2019-03-06T11:29:48.240] [MARK] jevin - 1111111111111111
+[2019-03-06T11:29:48.241] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为12/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:22:13.443] [MARK] jevin - { [Error: ENOENT: no such file or directory, stat 'E:\code\demo\demo\middleware\views\index.html']
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'E:\\code\\demo\\demo\\middleware\\views\\index.html' }
+[2019-03-06T14:22:13.447] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为105/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:22:13.532] [MARK] jevin - { NotFoundError: Not Found
+    at Object.throw (E:\code\demo\demo\node_modules\koa\lib\context.js:97:11)
+    at app.use (E:\code\demo\demo\middleware\index.js:26:18) message: 'Not Found' }
+[2019-03-06T14:22:13.534] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/favicon.ico","host":"localhost:3001","message":{"responseTime":"响应时间为6/ms"},"referer":"http://localhost:3001/","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:22:51.318] [MARK] jevin - { [Error: ENOENT: no such file or directory, stat 'E:\code\demo\demo\middleware\views\index.html']
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'E:\\code\\demo\\demo\\middleware\\views\\index.html' }
+[2019-03-06T14:22:51.321] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为12/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:25:40.561] [MARK] jevin - { Error: ENOENT: no such file or directory, open 'E:\code\demo\demo\views\layout.pug'
+    at E:\code\demo\demo\views\index.html line 10
+    at Object.openSync (fs.js:439:3)
+    at Object.readFileSync (fs.js:344:35)
+    at Function.read (E:\code\demo\demo\node_modules\pug-load\index.js:69:13)
+    at Object.read (E:\code\demo\demo\node_modules\pug\lib\index.js:146:25)
+    at E:\code\demo\demo\node_modules\pug-load\index.js:24:25
+    at walkAST (E:\code\demo\demo\node_modules\pug-walk\index.js:23:18)
+    at E:\code\demo\demo\node_modules\pug-walk\index.js:104:20
+    at Array.reduce (<anonymous>)
+    at walkAndMergeNodes (E:\code\demo\demo\node_modules\pug-walk\index.js:103:18)
+    at walkAST (E:\code\demo\demo\node_modules\pug-walk\index.js:37:19)
+    at load (E:\code\demo\demo\node_modules\pug-load\index.js:13:10)
+    at Function.loadString [as string] (E:\code\demo\demo\node_modules\pug-load\index.js:46:10)
+    at compileBody (E:\code\demo\demo\node_modules\pug\lib\index.js:86:18)
+    at Object.exports.compile (E:\code\demo\demo\node_modules\pug\lib\index.js:242:16)
+    at handleTemplateCache (E:\code\demo\demo\node_modules\pug\lib\index.js:215:25)
+    at Object.exports.compileFile (E:\code\demo\demo\node_modules\pug\lib\index.js:356:10)
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'E:\\code\\demo\\demo\\views\\layout.pug' }
+[2019-03-06T14:25:40.565] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为2704/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:26:23.107] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为523/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:41.122] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为486/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:45.069] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为9/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:45.150] [MARK] jevin - { NotFoundError: Not Found
+    at Object.throw (E:\code\demo\demo\node_modules\koa\lib\context.js:97:11)
+    at app.use (E:\code\demo\demo\middleware\index.js:30:18) message: 'Not Found' }
+[2019-03-06T14:30:45.151] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/favicon.ico","host":"localhost:3001","message":{"responseTime":"响应时间为5/ms"},"referer":"http://localhost:3001/","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:45.337] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为7/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:45.397] [MARK] jevin - { NotFoundError: Not Found
+    at Object.throw (E:\code\demo\demo\node_modules\koa\lib\context.js:97:11)
+    at app.use (E:\code\demo\demo\middleware\index.js:30:18) message: 'Not Found' }
+[2019-03-06T14:30:45.398] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/favicon.ico","host":"localhost:3001","message":{"responseTime":"响应时间为3/ms"},"referer":"http://localhost:3001/","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:52.719] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/","host":"localhost:3001","message":{"responseTime":"响应时间为10/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:30:53.895] [MARK] jevin - { NotFoundError: Not Found
+    at Object.throw (E:\code\demo\demo\node_modules\koa\lib\context.js:97:11)
+    at app.use (E:\code\demo\demo\middleware\index.js:30:18) message: 'Not Found' }
+[2019-03-06T14:30:53.896] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"GET","url":"/layout.html","host":"localhost:3001","message":{"responseTime":"响应时间为2/ms"},"referer":"http://localhost:3001/","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:42:12.554] [MARK] jevin - check login status
+[2019-03-06T14:42:12.559] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为10/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:42:13.646] [MARK] jevin - check login status
+[2019-03-06T14:42:13.647] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为3/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:44:51.086] [MARK] jevin - check login status
+[2019-03-06T14:44:51.090] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为24/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:44:51.987] [MARK] jevin - check login status
+[2019-03-06T14:44:51.988] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为2/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:45:47.606] [MARK] jevin - check login status
+[2019-03-06T14:45:47.607] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为2/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:45:48.601] [MARK] jevin - check login status
+[2019-03-06T14:45:48.602] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为2/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:46:19.256] [MARK] jevin - check login status
+[2019-03-06T14:46:19.259] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为9/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:51:28.222] [MARK] jevin - check login status
+[2019-03-06T14:51:28.226] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为10/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
+[2019-03-06T14:51:28.865] [MARK] jevin - check login status
+[2019-03-06T14:51:28.866] [INFO] jevin - {"projectName":"jevin-log","serverIp":"172.24.143.1","method":"POST","url":"/checkLogin","host":"127.0.0.1:3001","message":{"responseTime":"响应时间为1/ms"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"}
